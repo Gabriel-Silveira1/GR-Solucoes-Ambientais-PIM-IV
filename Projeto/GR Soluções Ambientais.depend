@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700863895 source:c:\users\gabri\onedrive\Área de trabalho\análise e desenv. de sistemas\1º semestre\pim - iv\projeto\rg soluções ambientais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<Windows.h>
+	<string.h>
+
+1700869818 source:c:\users\gabri\onedrive\Área de trabalho\análise e desenv. de sistemas\1º semestre\pim - iv\projeto\gr soluções ambientais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<Windows.h>
+	<string.h>
+
